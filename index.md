@@ -6,3 +6,7 @@
 ###### Preview of the sixth header
 
 ![Image of dog planking](https://cdn.britannica.com/13/234213-050-45F47984/dachshund-dog.jpg)
+
+```
+print('I hope you can see this right')
+```
