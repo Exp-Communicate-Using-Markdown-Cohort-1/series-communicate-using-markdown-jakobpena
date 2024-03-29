@@ -10,3 +10,9 @@
 ```
 print('I hope you can see this right')
 ```
+
+- [X] Complete step 1
+- [X] Complete step 2
+- [X] Complete step 3
+- [X] Complete step 4
+- [ ] Complete step 5
